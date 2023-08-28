@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ciaranodc
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Swift/iOS devlopment
 <!--
+- 🌱 I’m currently learning Swift/iOS devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
